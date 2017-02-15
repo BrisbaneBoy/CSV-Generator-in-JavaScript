@@ -1,5 +1,8 @@
 # CSV-Generator-in-JavaScript
 
+HOw to use:
+
+```
   function getsampleDataForCSV() {
    	var rows = [];
    	for (var i = 0; i < 100; i++) {
@@ -14,3 +17,4 @@
    }
    var sampleData = getsampleDataForCSV();
    csvGenerator.exportCSV("test", sampleData, ["Name", "School", "Address"]);
+   ```
