@@ -2,7 +2,7 @@
 
 This utility convers an object array to a CSV file. Each object represents a row in the CSV file. 
 
-Jsfiddle: https://jsfiddle.net/e0yjr4ns/2/
+Jsfiddle: https://jsfiddle.net/e0yjr4ns/3/
 
 ##How to use:
 
