@@ -1,6 +1,8 @@
 # CSV-Generator-in-JavaScript
 
-HOw to use:
+How to use:
+
+Jsfiddle: https://jsfiddle.net/e0yjr4ns/2/
 
 ```
   function getsampleDataForCSV() {
